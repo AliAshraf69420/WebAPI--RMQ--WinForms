@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Streamer")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3aa3cd6991163620f1e5d076a5694cdfa19cec3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+044cf1f56b9bfdbe83907ff39b90effdd5d80946")]
 [assembly: System.Reflection.AssemblyProductAttribute("Streamer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Streamer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
