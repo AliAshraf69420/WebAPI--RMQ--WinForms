@@ -38,7 +38,6 @@ namespace WebApi_rabbitmq
             }
 
             app.UseHttpsRedirection();
-            app.MapHub<MyHub>("/test");
             app.UseAuthorization();
             app.MapControllers();
 
