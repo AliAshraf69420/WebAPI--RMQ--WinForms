@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\streamingfromsignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:streamingfromsignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC0C77C6-FFE3-405E-B384-32FBB7FE7339}|streamingfromSignalR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
+              "RelativeDocumentMoniker": "ProductClass.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
+              "RelativeToolTip": "ProductClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:47:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:47:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:35:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:02:01.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:29:28.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "streamingfromSignalR.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamingfromSignalR.csproj",
+              "RelativeDocumentMoniker": "streamingfromSignalR.csproj",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamingfromSignalR.csproj",
+              "RelativeToolTip": "streamingfromSignalR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T19:01:13.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:01:11.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
