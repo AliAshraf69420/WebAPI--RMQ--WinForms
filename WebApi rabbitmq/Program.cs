@@ -1,9 +1,7 @@
 using Microsoft.EntityFrameworkCore.ChangeTracking.Internal;
 using WebApi_rabbitmq.Data;
 using WebApi_rabbitmq.RabbitMQ;
-using WebApi_rabbitmq.SIgnalR;
 using WebApi_rabbitmq.Services;
-using Microsoft.AspNetCore.SignalR;
 namespace WebApi_rabbitmq
 {
     public class Program
