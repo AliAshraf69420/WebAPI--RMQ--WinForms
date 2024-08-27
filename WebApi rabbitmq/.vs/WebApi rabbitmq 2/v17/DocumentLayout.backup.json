@@ -3,15 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\streamer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\webapi rabbitmq.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:webapi rabbitmq.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\hubs\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,24 +30,57 @@
       "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFD50EA6-4E08-4040-8F6A-44AAA8F629D8}|..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take11 (console consuming rabbitmq)\\consoleapp1\\rabbitmqbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\mainwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|solutionrelative:mainwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\StreamerApp\\Streamer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\streamer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFD50EA6-4E08-4040-8F6A-44AAA8F629D8}|..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take11 (console consuming rabbitmq)\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD50EA6-4E08-4040-8F6A-44AAA8F629D8}|..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take11 (console consuming rabbitmq)\\consoleapp1\\rabbitmqbackgroundservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF877B14-B922-4500-B378-B8823A0FDEA9}|..\\Streamer\\Streamer.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\streamer\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8E0601-F1E6-41BB-97A1-418C92C65D8D}|..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\streamReceiverFromSiganalR.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 14 (signalr windforms dest)\\streamingfromsignalr\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Ashraf\\AppData\\Local\\Temp\\.vsdbgsrc\\5583611a59e9857261f857f8c8406b9044eec656832f307048117e08f889a3fc\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\StreamerApp\\Streamer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51E6A404-3A4C-4EC1-B955-771A1D1763C2}|MainWebAPI.csproj|c:\\users\\ali ashraf\\important stuffs\\uni stuffs\\programming (general)\\c#\\c# take 10(webapirabbitmq)\\webapi rabbitmq\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,15 +97,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T17:01:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:04:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyHub.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Hubs\\MyHub.cs",
+              "RelativeDocumentMoniker": "..\\Streamer\\Hubs\\MyHub.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Hubs\\MyHub.cs",
+              "RelativeToolTip": "..\\Streamer\\Hubs\\MyHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:53:15.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Streamer\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Program.cs",
+              "RelativeToolTip": "..\\Streamer\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:28:49.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:31:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T06:53:29.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WebApi rabbitmq.http",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\WebApi rabbitmq.http",
               "RelativeDocumentMoniker": "WebApi rabbitmq.http",
@@ -75,104 +200,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
-              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T08:16:39.536Z",
+              "DocumentIndex": 1,
+              "Title": "Streamer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Streamer.csproj",
+              "RelativeDocumentMoniker": "..\\Streamer\\Streamer.csproj",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Streamer.csproj*",
+              "RelativeToolTip": "..\\Streamer\\Streamer.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T10:12:56.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductClass.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
-              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
-              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
-              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T07:40:43.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
-              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T07:04:48.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
               "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs",
               "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs [Design]",
               "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T07:04:29.677Z"
+              "WhenOpened": "2024-08-25T16:33:26.526Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
-              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "RabbitMQBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.cs",
+              "RelativeToolTip": "..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T07:40:45.142Z"
+              "WhenOpened": "2024-08-25T16:26:41.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "RabbitMQBackgroundService.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj",
+              "RelativeDocumentMoniker": "..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj",
+              "RelativeToolTip": "..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\RabbitMQBackgroundService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T16:26:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "productService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Services\\productService.cs",
+              "RelativeDocumentMoniker": "..\\Streamer\\Services\\productService.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Services\\productService.cs",
+              "RelativeToolTip": "..\\Streamer\\Services\\productService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:41:50.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T07:46:09.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Streamer.csproj",
-              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\StreamerApp\\Streamer.csproj",
-              "RelativeDocumentMoniker": "..\\StreamerApp\\Streamer.csproj",
-              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\StreamerApp\\Streamer.csproj",
-              "RelativeToolTip": "..\\StreamerApp\\Streamer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-25T06:54:31.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-25T06:53:29.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "MainWebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\MainWebAPI.csproj",
               "RelativeDocumentMoniker": "MainWebAPI.csproj",
@@ -180,11 +283,48 @@
               "RelativeToolTip": "MainWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-22T11:49:04.102Z"
+              "WhenOpened": "2024-08-22T11:49:04.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "Streamer.http",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Streamer.http",
+              "RelativeDocumentMoniker": "..\\Streamer\\Streamer.http",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Streamer.http",
+              "RelativeToolTip": "..\\Streamer\\Streamer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-25T17:13:28.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Data\\dbContextClass.cs",
+              "RelativeDocumentMoniker": "..\\Streamer\\Data\\dbContextClass.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Data\\dbContextClass.cs",
+              "RelativeToolTip": "..\\Streamer\\Data\\dbContextClass.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvxUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:32:15.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IproductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Services\\IproductService.cs",
+              "RelativeDocumentMoniker": "..\\Streamer\\Services\\IproductService.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Services\\IproductService.cs",
+              "RelativeToolTip": "..\\Streamer\\Services\\IproductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:41:52.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\Program.cs",
@@ -196,7 +336,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
+              "Title": "productClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Models\\productClass.cs",
+              "RelativeDocumentMoniker": "..\\Streamer\\Models\\productClass.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\Models\\productClass.cs",
+              "RelativeToolTip": "..\\Streamer\\Models\\productClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:48:46.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Streamer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Streamer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T10:48:55.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\appsetting.json",
+              "RelativeDocumentMoniker": "..\\Streamer\\appsetting.json",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\Streamer\\appsetting.json",
+              "RelativeToolTip": "..\\Streamer\\appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T09:52:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
+              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\ProductClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:40:43.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Take 14 (signalR windforms dest)\\streamingfromSignalR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:40:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\AppData\\Local\\Temp\\.vsdbgsrc\\5583611a59e9857261f857f8c8406b9044eec656832f307048117e08f889a3fc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5583611a59e9857261f857f8c8406b9044eec656832f307048117e08f889a3fc\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\AppData\\Local\\Temp\\.vsdbgsrc\\5583611a59e9857261f857f8c8406b9044eec656832f307048117e08f889a3fc\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5583611a59e9857261f857f8c8406b9044eec656832f307048117e08f889a3fc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:29:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Streamer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\StreamerApp\\Streamer.csproj",
+              "RelativeDocumentMoniker": "..\\StreamerApp\\Streamer.csproj",
+              "ToolTip": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\StreamerApp\\Streamer.csproj",
+              "RelativeToolTip": "..\\StreamerApp\\Streamer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T06:54:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "ProductClass.cs",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take 10(webapirabbitmq)\\WebApi rabbitmq\\Models\\ProductClass.cs",
               "RelativeDocumentMoniker": "Models\\ProductClass.cs",
@@ -208,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Ali Ashraf\\Important stuffs\\uni stuffs\\Programming (general)\\C#\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\Dockerfile",
               "RelativeDocumentMoniker": "..\\..\\C# Take11 (console consuming rabbitmq)\\ConsoleApp1\\Dockerfile",

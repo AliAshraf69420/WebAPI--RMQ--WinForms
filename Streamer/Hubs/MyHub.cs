@@ -25,16 +25,18 @@ namespace Streamer.Hubs
                 // Send the product object to all connected clients
                 await Clients.All.SendAsync("ReceiveProduct", product);
             }
-        }
-        public async Task<List<productClass>> GetProducts()
+        } 
+       /* public async Task<List<productClass>> GetProducts(productClass product_)
         {
             var product = _productService.Get();  // No need to await since Get() is synchronous
 
             // Create a list with the single product (if needed)
             var data = new List<productClass> { product };
 
-            return data.ToList();  // Return the list
-        }
+            return data.ToList();
+            await Clients.All.SendAsync("ReceiveOrder", product);
+            // Return the list
+        } */
     }
 }
 
