@@ -12,12 +12,12 @@ namespace WebApi_rabbitmq.RabbitMQ
                 HostName = "localhost"
             };
             var connection = factory.CreateConnection();
-            using
-                var channel = connection.CreateModel();
-            channel.QueueDeclare("product", exclusive: false);
+            using var channel = connection.CreateModel();
+            string exchangeName = "productExchange";
+            channel.ExchangeDeclare(exchange: exchangeName, type: ExchangeType.Fanout);
             var json = JsonConvert.SerializeObject(message);
             var body = Encoding.UTF8.GetBytes(json);
-            channel.BasicPublish(exchange: "", routingKey: "product", body: body);
+            channel.BasicPublish(exchange: exchangeName, routingKey: "", body: body);
         }
     }
 }

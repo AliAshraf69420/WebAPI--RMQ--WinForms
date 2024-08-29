@@ -181,6 +181,7 @@ C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take
 C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\Owin.dll
+C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 C:\Users\Ali Ashraf\Important stuffs\uni stuffs\Programming (general)\C#\C# Take 10(webapirabbitmq)\Streamer\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll

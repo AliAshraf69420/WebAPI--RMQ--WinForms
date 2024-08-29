@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Streamer.RabbitMQ_client;
 
 namespace Streamer.Hubs
 {
@@ -26,7 +27,7 @@ namespace Streamer.Hubs
                 await Clients.All.SendAsync("ReceiveProduct", product);
             }
         } 
-       /* public async Task<List<productClass>> GetProducts(productClass product_)
+        public async Task<List<productClass>> GetProducts(productClass product_)
         {
             var product = _productService.Get();  // No need to await since Get() is synchronous
 
@@ -34,9 +35,9 @@ namespace Streamer.Hubs
             var data = new List<productClass> { product };
 
             return data.ToList();
-            await Clients.All.SendAsync("ReceiveOrder", product);
+            await Clients.All.SendAsync("ReceiveProduct", product);
             // Return the list
-        } */
+        }
     }
 }
 

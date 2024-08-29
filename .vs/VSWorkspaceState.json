@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Streamer",
+    "\\Streamer\\Hubs",
+    "\\WebApi rabbitmq"
   ],
-  "SelectedNode": "\\WebApi rabbitmq.sln",
+  "SelectedNode": "\\Streamer\\Hubs\\MyHub.cs",
   "PreviewInSolutionExplorer": false
 }
