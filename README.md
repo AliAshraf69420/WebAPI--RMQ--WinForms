@@ -1,3 +1,3 @@
 # ~~This is very udnerdeveloped and mostly doesn't work~~
 ---
-It works now Ig, snapshots aren't added yet but POC ig
+The Project runs, I send "products" instead of "orders" but still same Process; new products appear on the grid viewer and snapshots haven't been fully adapted
